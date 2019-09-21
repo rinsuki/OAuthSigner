@@ -1,3 +1,3 @@
 # OAuthSigner
 
-A description of this package.
+OAuth 1.0a の署名をしてくれるやつ。
